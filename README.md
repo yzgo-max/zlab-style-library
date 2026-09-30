@@ -68,7 +68,7 @@ zlab-style-library/
 ├── references/
 │   └── style-library.md      # 26 套模板正文、变体与避坑词典
 ├── assets/
-│   └── city-life-system-map.png # 示例运行图谱
+│   └── zlab-agent-preview.png   # 示例运行图谱（电商主图与 A+ 商详套图系统）
 └── scripts/
     └── build.mjs             # 词典维护与编译脚本
 ```
