@@ -1,0 +1,3 @@
+display_name: Zlab Style Library
+short_description: Choose production-ready prompt templates, visual styles, and industrial constraints from Zlab.
+default_prompt: Use the zlab-style-library skill to create a production-ready image generation prompt.

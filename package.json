@@ -1,0 +1,36 @@
+{
+  "name": "zlab-style-library",
+  "version": "1.0.0",
+  "description": "Zlab AI Visual Style & Prompt Engineering Library for Claude Code, Codex, and Agent IDEs.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yzgo-max/zlab-style-library.git"
+  },
+  "keywords": [
+    "agent-skill",
+    "claude-code",
+    "codex",
+    "codex-skill",
+    "prompt-engineering",
+    "image-generation",
+    "style-library",
+    "zlab"
+  ],
+  "bin": {
+    "zlab-style-library": "bin/install.mjs"
+  },
+  "files": [
+    "SKILL.md",
+    "agents",
+    "assets",
+    "bin",
+    "references",
+    "LICENSE",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
